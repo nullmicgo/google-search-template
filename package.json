@@ -2,6 +2,7 @@
   "name": "course-directory",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nullmicgo.github.io/google-search-template",
   "devDependencies": {
     "react-scripts": "1.0.6"
   },

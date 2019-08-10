@@ -168,8 +168,11 @@ header {
 
 }
 
+.news-image{
+  width: 100%;
+}
+
 .news-url{
-  height: 10px;
   color:green;
   margin-block-start: 0px;
   margin-block-end: 0px;

@@ -4,7 +4,7 @@ import { Route, NavLink, Redirect } from 'react-router-dom';
 
 
 import CourseContainer from  './courses/CourseContainer';
-import {HTMLCourses, CSSCourses, JSCourses} from '../data/courses';
+import {HTMLCourses, CSSCourses, JSCourses, News002} from '../data/courses';
 
 class Searching extends Component {   
   constructor(props, context) {

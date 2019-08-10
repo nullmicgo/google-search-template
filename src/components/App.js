@@ -15,6 +15,7 @@ import Courses from './Courses';
 import NotFound from './NotFound';
 import Featured from './Featured';
 import Searching from './Searching';
+import { HashRouter } from 'react-router-dom'
 
 
 
@@ -27,7 +28,8 @@ import Searching from './Searching';
 
 
 const App = () => (
-  <BrowserRouter>
+  <HashRouter>
+
   <div className="container">
       <div className="counter">
         {/* <Header /> */}
@@ -45,7 +47,8 @@ const App = () => (
         </Switch>
       </div>
   </div>
-  </BrowserRouter>
+  </HashRouter>
+
 );
 
 export default App;
