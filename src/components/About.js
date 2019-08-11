@@ -44,7 +44,7 @@ resultArray[1] =<div className="main-content">
 
 resultArray[2] =<div className="main-content">
       <h2>【真人真事】藍可兒命案最新解釋　傳牽涉韓國電梯遊戲？</h2>
-      <p><img className="news-image" src="http://nullmicgo-development.com/google-search-template/news.jpg"></img></p>
+      <p><img className="news-image" src="news.jpg"></img></p>
         <p >電影中很多鬼故事，跟電梯也是息息相關，一個人在幽閉空間內，可以發生任何事情，而在CCTV中拍到的一切，跟身在電梯內的你，所看到的又會否完全一樣呢？在2013年的藍可兒神秘死亡事件，酒店電梯內的CCTV拍下她最後的片段，清楚看到她出現怪異行為，亂撳電梯的樓層按鈕，又對着空氣說話，究竟當中有否別人看不到的詭異情況呢？近日有人將事件牽扯到韓國的「電梯遊戲」，只要滿足一定條件，就可去到另一個空間，而藍可兒的死前行徑，讓人聯想起這個韓國都市傳說，下文就為大家拆解其中的玄機。</p>
       <h3>有入冇出</h3>
       <p> 其實我呢啲毒撚都係第一次去Halloween，所以都唔知鬼屋入面係點，但大概都知會有班工作人員會扮鬼出嚟嚇你。而佢，雖然都唔係第一次玩鬼屋，但其實佢係好驚 ...</p>
@@ -60,7 +60,7 @@ resultArray[2] =<div className="main-content">
 
 resultArray[3] =<div className="main-content">
 <h2>【真人真事】藍可兒命案最新解釋　傳牽涉韓國電梯遊戲？</h2>
-<p><img className="news-image" src="http://nullmicgo-development.com/google-search-template/news.jpg"></img></p>
+<p><img className="news-image" src="news.jpg"></img></p>
   <p >電影中很多鬼故事，跟電梯也是息息相關，一個人在幽閉空間內，可以發生任何事情，而在CCTV中拍到的一切，跟身在電梯內的你，所看到的又會否完全一樣呢？在2013年的藍可兒神秘死亡事件，酒店電梯內的CCTV拍下她最後的片段，清楚看到她出現怪異行為，亂撳電梯的樓層按鈕，又對着空氣說話，究竟當中有否別人看不到的詭異情況呢？近日有人將事件牽扯到韓國的「電梯遊戲」，只要滿足一定條件，就可去到另一個空間，而藍可兒的死前行徑，讓人聯想起這個韓國都市傳說，下文就為大家拆解其中的玄機。</p>
 <h3>有入冇出</h3>
 <p> 其實我呢啲毒撚都係第一次去Halloween，所以都唔知鬼屋入面係點，但大概都知會有班工作人員會扮鬼出嚟嚇你。而佢，雖然都唔係第一次玩鬼屋，但其實佢係好驚 ...</p>
@@ -75,7 +75,7 @@ resultArray[3] =<div className="main-content">
 
 resultArray[4] =<div className="main-content">
 <h2>【真人真事】藍可兒命案最新解釋　傳牽涉韓國電梯遊戲？</h2>
-<p><img className="news-image" src="http://nullmicgo-development.com/google-search-template/news.jpg"></img></p>
+<p><img className="news-image" src="news.jpg"></img></p>
   <p >電影中很多鬼故事，跟電梯也是息息相關，一個人在幽閉空間內，可以發生任何事情，而在CCTV中拍到的一切，跟身在電梯內的你，所看到的又會否完全一樣呢？在2013年的藍可兒神秘死亡事件，酒店電梯內的CCTV拍下她最後的片段，清楚看到她出現怪異行為，亂撳電梯的樓層按鈕，又對着空氣說話，究竟當中有否別人看不到的詭異情況呢？近日有人將事件牽扯到韓國的「電梯遊戲」，只要滿足一定條件，就可去到另一個空間，而藍可兒的死前行徑，讓人聯想起這個韓國都市傳說，下文就為大家拆解其中的玄機。</p>
 <h3>有入冇出</h3>
 <p> 其實我呢啲毒撚都係第一次去Halloween，所以都唔知鬼屋入面係點，但大概都知會有班工作人員會扮鬼出嚟嚇你。而佢，雖然都唔係第一次玩鬼屋，但其實佢係好驚 ...</p>
@@ -91,7 +91,7 @@ resultArray[4] =<div className="main-content">
 
 resultArray[5] =<div className="main-content">
 <h2>【真人真事】藍可兒命案最新解釋　傳牽涉韓國電梯遊戲？</h2>
-<p><img className="news-image" src="http://nullmicgo-development.com/google-search-template/news.jpg"></img></p>
+<p><img className="news-image" src="news.jpg"></img></p>
   <p >電影中很多鬼故事，跟電梯也是息息相關，一個人在幽閉空間內，可以發生任何事情，而在CCTV中拍到的一切，跟身在電梯內的你，所看到的又會否完全一樣呢？在2013年的藍可兒神秘死亡事件，酒店電梯內的CCTV拍下她最後的片段，清楚看到她出現怪異行為，亂撳電梯的樓層按鈕，又對着空氣說話，究竟當中有否別人看不到的詭異情況呢？近日有人將事件牽扯到韓國的「電梯遊戲」，只要滿足一定條件，就可去到另一個空間，而藍可兒的死前行徑，讓人聯想起這個韓國都市傳說，下文就為大家拆解其中的玄機。</p>
 <h3>有入冇出</h3>
 <p> 其實我呢啲毒撚都係第一次去Halloween，所以都唔知鬼屋入面係點，但大概都知會有班工作人員會扮鬼出嚟嚇你。而佢，雖然都唔係第一次玩鬼屋，但其實佢係好驚 ...</p>
@@ -118,8 +118,17 @@ resultArray[6] = <div className="main-content">
     return (
       <main>
 
-{resultArray[this.state.typeid]}
+      <div className="news-detail-layout">
+          <div className="news-detail-left-detail">
+                {resultArray[this.state.typeid]}
+          </div>
+             
+          <div className="news-detail-right-detail">
+                    
+                    
+                </div>
 
+      </div>
       </main>
 
     )

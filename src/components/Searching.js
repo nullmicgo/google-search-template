@@ -63,7 +63,7 @@ class Searching extends Component {
   content =  <main>
 
 <NavLink  exact to={"/about/6"} >
-<img src="loading.gif" />
+<img className="loading-image" src="loading.gif" />
 </NavLink>
 
 

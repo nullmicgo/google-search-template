@@ -78,6 +78,21 @@ button {
   box-shadow: 0 3px rgba(0,0,0, .1);
   overflow: hidden;
 }
+
+
+.news-detail-layout{
+  width: 60%;
+   max-width: 780px; 
+  padding-bottom: 2em;
+  margin: 0 auto 2em;
+  background: #fff;
+  border-radius: .5em;
+  box-shadow: 0 3px rgba(0,0,0, .1);
+  overflow: hidden;
+}
+
+
+
 header {
   background: #edeff0;
   margin-bottom: 2em;
@@ -167,6 +182,10 @@ header {
 
 
 }
+
+
+
+
 
 .news-image{
   width: 100%;
@@ -297,3 +316,38 @@ header {
    }
   
 }
+
+
+
+
+.loading-image{
+  width: 100%;
+}
+
+
+@media (min-width: 768px) { 
+  .loading-image{
+    width: 300px;
+  }
+  
+
+}
+
+
+.news-detail-left-detail{
+  float: left;
+  width: 600px;
+}
+
+
+.news-detail-right-detail{
+  float: right;
+  width: 150px;
+
+  }
+
+
+  .news-detail-right-detail h1{
+    font-size: 25px;
+  }
+
