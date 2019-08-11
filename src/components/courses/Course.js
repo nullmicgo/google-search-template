@@ -7,7 +7,7 @@ const Course = (props) => (
 
 
 
-    <h3><NavLink  exact to="/about" >{props.title}</NavLink></h3>
+    <h3><NavLink  exact to={"/about/"+props.type} >{props.title}</NavLink></h3>
       <p className="news-url">{props.url}</p>
       <p>{props.desc}</p>
     </div>

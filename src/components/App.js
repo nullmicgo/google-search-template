@@ -35,7 +35,10 @@ const App = () => (
         {/* <Header /> */}
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route  path="/about" render={ () => <About title='About' />} />        
+
+
+                       <Route  path="/about/:typeid" component={About} />
+
           <Route  exact path="/teachers" component={Teachers} />
           <Route  path="/teachers/:topic/:name" component={Featured} />
           <Route  path="/courses" component={Courses} />      

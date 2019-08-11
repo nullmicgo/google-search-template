@@ -7,6 +7,7 @@ const CourseContainer = (props) => {
                    desc={course.description}
                    img={course.img_src}
                    url={course.url}
+                   type={course.type}
                    key={course.id} />
   }); 
   return (
