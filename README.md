@@ -5,7 +5,7 @@ google-search-template
 This is using for movie prop
 
 
-http://nullmicgo-development.com/google-search-template
+https://nullmicgo-development.com/google-search-template
 
 Result A:
 Search by:
